@@ -1,0 +1,15 @@
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\bin\Debug\QLPT.exe.config
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\bin\Debug\QLPT.exe
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\bin\Debug\QLPT.pdb
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\QLPT.csprojResolveAssemblyReference.cache
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\QLPT.fdangnhap.resources
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\QLPT.Properties.Resources.resources
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\QLPT.csproj.GenerateResource.Cache
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\QLPT.exe
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\QLPT.pdb
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\QLPT.fquanly.resources
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\QLPT.faccountprofile.resources
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\RdlCompile.cache
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\RdlCompile.compiled
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\QLPT.QuanLy.resources
+C:\Users\THAI HT\Desktop\QTDACNTT\quanlyphongtro-thinking\QLPT\QLPT\obj\Debug\QLPT.FPrint.resources
